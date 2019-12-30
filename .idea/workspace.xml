@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85b5aa19-a336-47f0-9a8e-3876a3452ecb" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/src/main/java/com/blb/EurekaAppliction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/Eureka-Server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/Eureka-Server-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/classes/com/blb/EurekaAppliction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka-Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/blb/CustomerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/blb/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/blb/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/blb/CustomerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/blb/controller/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/blb/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/customer-demo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/customer-demo-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/blb/Appliction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/blb/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/blb/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/blb/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/blb/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/classes/com/blb/Appliction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/classes/com/blb/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/classes/com/blb/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/classes/com/blb/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/classes/com/blb/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/user-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/user-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/user-service.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\idea\cloud-demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVp5k8lS2hOylZQ0AilBVts6Gx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.blb.pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Appliction">
+    <configuration name="Appliction" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blb.Appliction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="customer-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blb.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaAppliction" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Eureka-Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blb.EurekaAppliction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Appliction" />
+      <item itemvalue="Spring Boot.CustomerApplication" />
+      <item itemvalue="Spring Boot.EurekaAppliction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Appliction" />
+        <item itemvalue="Spring Boot.EurekaAppliction" />
+        <item itemvalue="Spring Boot.CustomerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.23428962" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b5aa19-a336-47f0-9a8e-3876a3452ecb" name="Default Changelist" comment="" />
+      <created>1577347935273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577347935273</updated>
+      <workItem from="1577347940330" duration="10379000" />
+      <workItem from="1577360274216" duration="1011000" />
+      <workItem from="1577361399159" duration="2284000" />
+      <workItem from="1577363768866" duration="6676000" />
+      <workItem from="1577370537260" duration="197000" />
+      <workItem from="1577410164679" duration="1818000" />
+      <workItem from="1577416397137" duration="120000" />
+      <workItem from="1577417601549" duration="1489000" />
+      <workItem from="1577422132502" duration="3999000" />
+      <workItem from="1577669458647" duration="4970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1577362186079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1577362186079" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577432068766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577432068766" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1577349283969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577349283969" />
+    <state x="367" y="6" key="CommitChangelistDialog2" timestamp="1577696463958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577696463958" />
+    <state x="570" y="167" key="FileChooserDialogImpl" timestamp="1577695588901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577695588901" />
+    <state width="1120" height="232" key="GridCell.Tab.0.bottom" timestamp="1577696464182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577696464182" />
+    <state width="1120" height="232" key="GridCell.Tab.0.center" timestamp="1577696464182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577696464182" />
+    <state width="1120" height="232" key="GridCell.Tab.0.left" timestamp="1577696464182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577696464182" />
+    <state width="1120" height="232" key="GridCell.Tab.0.right" timestamp="1577696464182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577696464182" />
+    <state width="1120" height="232" key="GridCell.Tab.1.bottom" timestamp="1577696464183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577696464183" />
+    <state width="1120" height="232" key="GridCell.Tab.1.center" timestamp="1577696464183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577696464183" />
+    <state width="1120" height="232" key="GridCell.Tab.1.left" timestamp="1577696464182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577696464182" />
+    <state width="1120" height="232" key="GridCell.Tab.1.right" timestamp="1577696464183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577696464183" />
+    <state width="1120" height="232" key="GridCell.Tab.2.bottom" timestamp="1577696464183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577696464183" />
+    <state width="1120" height="232" key="GridCell.Tab.2.center" timestamp="1577696464183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577696464183" />
+    <state width="1120" height="232" key="GridCell.Tab.2.left" timestamp="1577696464183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577696464183" />
+    <state width="1120" height="232" key="GridCell.Tab.2.right" timestamp="1577696464183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1120" height="232" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577696464183" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1577695572291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577695572291" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577669560230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577669560230" />
+    <state x="178" y="107" key="new project wizard" timestamp="1577359467570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577359467570" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1577360328611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577360328611" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577365768055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577365768055" />
+  </component>
+</project>
